@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SMAPP</string>
+    <string name="facebook_app_id">1134807383205312</string>
+        <string-array name="menuItems">
+            <item>Profile</item>
+            <item>Log out</item>
+            <item>Item 3</item>
+        </string-array>
+</resources>

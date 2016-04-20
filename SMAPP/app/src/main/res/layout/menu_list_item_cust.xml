@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+    <TextView  xmlns:android="http://schemas.android.com/apk/res/android"
+        style="@style/shadowEffect"
+        android:padding="25dp"
+        android:textColor="@color/textYellow"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="DEFAULT TEXT DEFAULT TEXT"
+        android:id="@+id/textView2" />
